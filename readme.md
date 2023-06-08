@@ -1,3 +1,3 @@
 #FactoryMethodAppp
 *****
-Short description about project
+Sample .NET application using the Factory Method credential design pattern
